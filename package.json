@@ -1,0 +1,15 @@
+{
+  "name": "webautomation",
+  "version": "1.0.0",
+  "description": "this is web automation using selenium and AngularJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elementor": "^1.1.0",
+    "protractor": "^3.0.0"
+  }
+}
