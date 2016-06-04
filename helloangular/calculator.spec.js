@@ -4,7 +4,7 @@
 
 describe('lets look at a calculator', function() {
     it('enters two integer values', function() {
-       browser.get('http://juliemr.github.io/protractor-demo/')
+       browser.get('http://juliemr.github.io/protractor-demo/');
 
         element(by.model('first')).sendKeys(5);
         element(by.model('operator')).sendKeys('*');
